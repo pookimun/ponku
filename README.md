@@ -40,8 +40,9 @@ CASETIFY 를 참고하여 만든 폰케이스 판매 사이트입니다.
 #### 회원가입 - <a href="https://github.com/kimjeong-eun/shopProject/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85)" >상세보기 - WIKI 이동</a>
 - 회원가입 (유효성 검사 - ID 중복 체크 등)
 
-#### 전체 게시판 - <a href="https://github.com/kimjeong-eun/shopProject/wiki/List"> 상세보기 - WIKI 이동</a>
+#### 전체 게시판, 관리자 - <a href="https://github.com/kimjeong-eun/shopProject/wiki/List"> 상세보기 - WIKI 이동</a>
 - 전체 목록 조회
+- 관리자 CRUD
 
 #### 커스텀케이스 - <a href="https://github.com/kimjeong-eun/shopProject/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%BB%A4%EC%8A%A4%ED%85%80%EC%BC%80%EC%9D%B4%EC%8A%A4)"> 상세보기 - WIKI 이동</a>
 - 케이스 커스텀 기능
